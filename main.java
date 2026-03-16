@@ -3,5 +3,6 @@ public class main{
         System.out.println("Hello from CI/CD Pipeline");
         System.out.println("Build Triggered using Poll SCM");
         System.out.println("Build trigerred using webhook");
+        System.out.println("Build trigerred using webhook");
     }
 }
